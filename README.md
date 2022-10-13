@@ -8,6 +8,6 @@ This project is a flutter application where the user can generate random colors,
 User can plan color transition with floating action button. In this section, there are intervals of 1, 3, 5 seconds buttons and a stop button. Additionally, user can hide or show the RGB info text. The user can fix the pixel errors on his device with this application.
 
 ## Used Packages
-Flutter Speed Dial
-Flutter Launcher Icons
-Flutter Circle Color Picker
+- Flutter Speed Dial
+- Flutter Launcher Icons
+- Flutter Circle Color Picker
